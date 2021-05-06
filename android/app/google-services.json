@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124786997710",
+    "project_id": "hospital-da21d",
+    "storage_bucket": "hospital-da21d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124786997710:android:5323adabf024a13783939f",
+        "android_client_info": {
+          "package_name": "com.example.doctorsportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124786997710-h261ne8ludqebdpt4nkpcidfcibm64d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFI-v-JoWig1IebuQflVkdaDKfDd1FrNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124786997710-h261ne8ludqebdpt4nkpcidfcibm64d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
